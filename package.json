@@ -1,0 +1,11 @@
+{
+  "name": "google-api-authorization-using-service-account",
+  "type": "module",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "dotenv": "^16.0.3",
+    "googleapis": "105"
+  }
+}
